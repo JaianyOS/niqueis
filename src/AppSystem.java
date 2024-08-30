@@ -1,5 +1,4 @@
-public class AppSystem {
-}
+
 public class AppSystem {
 
     private IO io;
